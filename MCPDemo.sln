@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PersonAPI", "PersonAPI\PersonAPI.fsproj", "{00797ADD-6E57-412F-A5DB-1F637704F7B9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MCPShared", "MCPShared\MCPShared.fsproj", "{2FD14000-B200-4AAD-953C-E08A2C985B79}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MCP", "MCP\MCP.fsproj", "{ACF450E4-D9D7-44A9-849B-BD76A7A2EB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00797ADD-6E57-412F-A5DB-1F637704F7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00797ADD-6E57-412F-A5DB-1F637704F7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00797ADD-6E57-412F-A5DB-1F637704F7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00797ADD-6E57-412F-A5DB-1F637704F7B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD14000-B200-4AAD-953C-E08A2C985B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD14000-B200-4AAD-953C-E08A2C985B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD14000-B200-4AAD-953C-E08A2C985B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD14000-B200-4AAD-953C-E08A2C985B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF450E4-D9D7-44A9-849B-BD76A7A2EB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF450E4-D9D7-44A9-849B-BD76A7A2EB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF450E4-D9D7-44A9-849B-BD76A7A2EB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF450E4-D9D7-44A9-849B-BD76A7A2EB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

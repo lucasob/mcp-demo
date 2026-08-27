@@ -1,0 +1,9 @@
+# Mac rubbish
+.DS_Store
+
+# JetBrains
+.idea/
+
+# Build
+**/bin/**
+**/obj/**

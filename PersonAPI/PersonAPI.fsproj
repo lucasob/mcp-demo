@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Store.fs" />
+        <Compile Include="Program.fs"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MCPShared\MCPShared.fsproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ModelContextProtocol.NET.Server" Version="0.3.3-alpha" />
+    </ItemGroup>
+
+</Project>
